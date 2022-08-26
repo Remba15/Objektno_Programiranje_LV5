@@ -1,0 +1,34 @@
+F:\FAKS\DKB\Objektno programiranje\C#\LABOSI\LV2\New folder\Objektno programirenje LV5 - Kuna\bin\Debug\net6.0-windows\Objektno programirenje LV5 - Kuna.exe
+F:\FAKS\DKB\Objektno programiranje\C#\LABOSI\LV2\New folder\Objektno programirenje LV5 - Kuna\bin\Debug\net6.0-windows\Objektno programirenje LV5 - Kuna.deps.json
+F:\FAKS\DKB\Objektno programiranje\C#\LABOSI\LV2\New folder\Objektno programirenje LV5 - Kuna\bin\Debug\net6.0-windows\Objektno programirenje LV5 - Kuna.runtimeconfig.json
+F:\FAKS\DKB\Objektno programiranje\C#\LABOSI\LV2\New folder\Objektno programirenje LV5 - Kuna\bin\Debug\net6.0-windows\Objektno programirenje LV5 - Kuna.dll
+F:\FAKS\DKB\Objektno programiranje\C#\LABOSI\LV2\New folder\Objektno programirenje LV5 - Kuna\bin\Debug\net6.0-windows\Objektno programirenje LV5 - Kuna.pdb
+F:\FAKS\DKB\Objektno programiranje\C#\LABOSI\LV2\New folder\Objektno programirenje LV5 - Kuna\obj\Debug\net6.0-windows\Objektno programirenje LV5 - Kuna.csproj.AssemblyReference.cache
+F:\FAKS\DKB\Objektno programiranje\C#\LABOSI\LV2\New folder\Objektno programirenje LV5 - Kuna\obj\Debug\net6.0-windows\Objektno_programirenje_LV5___Kuna.Form1.resources
+F:\FAKS\DKB\Objektno programiranje\C#\LABOSI\LV2\New folder\Objektno programirenje LV5 - Kuna\obj\Debug\net6.0-windows\Objektno programirenje LV5 - Kuna.csproj.GenerateResource.cache
+F:\FAKS\DKB\Objektno programiranje\C#\LABOSI\LV2\New folder\Objektno programirenje LV5 - Kuna\obj\Debug\net6.0-windows\Objektno programirenje LV5 - Kuna.GeneratedMSBuildEditorConfig.editorconfig
+F:\FAKS\DKB\Objektno programiranje\C#\LABOSI\LV2\New folder\Objektno programirenje LV5 - Kuna\obj\Debug\net6.0-windows\Objektno programirenje LV5 - Kuna.AssemblyInfoInputs.cache
+F:\FAKS\DKB\Objektno programiranje\C#\LABOSI\LV2\New folder\Objektno programirenje LV5 - Kuna\obj\Debug\net6.0-windows\Objektno programirenje LV5 - Kuna.AssemblyInfo.cs
+F:\FAKS\DKB\Objektno programiranje\C#\LABOSI\LV2\New folder\Objektno programirenje LV5 - Kuna\obj\Debug\net6.0-windows\Objektno programirenje LV5 - Kuna.csproj.CoreCompileInputs.cache
+F:\FAKS\DKB\Objektno programiranje\C#\LABOSI\LV2\New folder\Objektno programirenje LV5 - Kuna\obj\Debug\net6.0-windows\Objektno programirenje LV5 - Kuna.dll
+F:\FAKS\DKB\Objektno programiranje\C#\LABOSI\LV2\New folder\Objektno programirenje LV5 - Kuna\obj\Debug\net6.0-windows\refint\Objektno programirenje LV5 - Kuna.dll
+F:\FAKS\DKB\Objektno programiranje\C#\LABOSI\LV2\New folder\Objektno programirenje LV5 - Kuna\obj\Debug\net6.0-windows\Objektno programirenje LV5 - Kuna.pdb
+F:\FAKS\DKB\Objektno programiranje\C#\LABOSI\LV2\New folder\Objektno programirenje LV5 - Kuna\obj\Debug\net6.0-windows\Objektno programirenje LV5 - Kuna.genruntimeconfig.cache
+F:\FAKS\DKB\Objektno programiranje\C#\LABOSI\LV2\New folder\Objektno programirenje LV5 - Kuna\obj\Debug\net6.0-windows\ref\Objektno programirenje LV5 - Kuna.dll
+F:\FAKS\DKB\Objektno programiranje\Python\Objektno LV5 - Kuna\KLIJENT\Objektno programirenje LV5 - Kuna\bin\Debug\net6.0-windows\Objektno programirenje LV5 - Kuna.exe
+F:\FAKS\DKB\Objektno programiranje\Python\Objektno LV5 - Kuna\KLIJENT\Objektno programirenje LV5 - Kuna\bin\Debug\net6.0-windows\Objektno programirenje LV5 - Kuna.deps.json
+F:\FAKS\DKB\Objektno programiranje\Python\Objektno LV5 - Kuna\KLIJENT\Objektno programirenje LV5 - Kuna\bin\Debug\net6.0-windows\Objektno programirenje LV5 - Kuna.runtimeconfig.json
+F:\FAKS\DKB\Objektno programiranje\Python\Objektno LV5 - Kuna\KLIJENT\Objektno programirenje LV5 - Kuna\bin\Debug\net6.0-windows\Objektno programirenje LV5 - Kuna.dll
+F:\FAKS\DKB\Objektno programiranje\Python\Objektno LV5 - Kuna\KLIJENT\Objektno programirenje LV5 - Kuna\bin\Debug\net6.0-windows\Objektno programirenje LV5 - Kuna.pdb
+F:\FAKS\DKB\Objektno programiranje\Python\Objektno LV5 - Kuna\KLIJENT\Objektno programirenje LV5 - Kuna\obj\Debug\net6.0-windows\Objektno programirenje LV5 - Kuna.csproj.AssemblyReference.cache
+F:\FAKS\DKB\Objektno programiranje\Python\Objektno LV5 - Kuna\KLIJENT\Objektno programirenje LV5 - Kuna\obj\Debug\net6.0-windows\Objektno_programirenje_LV5___Kuna.Form1.resources
+F:\FAKS\DKB\Objektno programiranje\Python\Objektno LV5 - Kuna\KLIJENT\Objektno programirenje LV5 - Kuna\obj\Debug\net6.0-windows\Objektno programirenje LV5 - Kuna.csproj.GenerateResource.cache
+F:\FAKS\DKB\Objektno programiranje\Python\Objektno LV5 - Kuna\KLIJENT\Objektno programirenje LV5 - Kuna\obj\Debug\net6.0-windows\Objektno programirenje LV5 - Kuna.GeneratedMSBuildEditorConfig.editorconfig
+F:\FAKS\DKB\Objektno programiranje\Python\Objektno LV5 - Kuna\KLIJENT\Objektno programirenje LV5 - Kuna\obj\Debug\net6.0-windows\Objektno programirenje LV5 - Kuna.AssemblyInfoInputs.cache
+F:\FAKS\DKB\Objektno programiranje\Python\Objektno LV5 - Kuna\KLIJENT\Objektno programirenje LV5 - Kuna\obj\Debug\net6.0-windows\Objektno programirenje LV5 - Kuna.AssemblyInfo.cs
+F:\FAKS\DKB\Objektno programiranje\Python\Objektno LV5 - Kuna\KLIJENT\Objektno programirenje LV5 - Kuna\obj\Debug\net6.0-windows\Objektno programirenje LV5 - Kuna.csproj.CoreCompileInputs.cache
+F:\FAKS\DKB\Objektno programiranje\Python\Objektno LV5 - Kuna\KLIJENT\Objektno programirenje LV5 - Kuna\obj\Debug\net6.0-windows\Objektno programirenje LV5 - Kuna.dll
+F:\FAKS\DKB\Objektno programiranje\Python\Objektno LV5 - Kuna\KLIJENT\Objektno programirenje LV5 - Kuna\obj\Debug\net6.0-windows\refint\Objektno programirenje LV5 - Kuna.dll
+F:\FAKS\DKB\Objektno programiranje\Python\Objektno LV5 - Kuna\KLIJENT\Objektno programirenje LV5 - Kuna\obj\Debug\net6.0-windows\Objektno programirenje LV5 - Kuna.pdb
+F:\FAKS\DKB\Objektno programiranje\Python\Objektno LV5 - Kuna\KLIJENT\Objektno programirenje LV5 - Kuna\obj\Debug\net6.0-windows\Objektno programirenje LV5 - Kuna.genruntimeconfig.cache
+F:\FAKS\DKB\Objektno programiranje\Python\Objektno LV5 - Kuna\KLIJENT\Objektno programirenje LV5 - Kuna\obj\Debug\net6.0-windows\ref\Objektno programirenje LV5 - Kuna.dll

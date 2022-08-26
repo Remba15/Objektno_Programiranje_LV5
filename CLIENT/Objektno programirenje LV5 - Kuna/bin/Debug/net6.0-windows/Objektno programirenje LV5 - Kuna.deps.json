@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Objektno programirenje LV5 - Kuna/1.0.0": {
+        "runtime": {
+          "Objektno programirenje LV5 - Kuna.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Objektno programirenje LV5 - Kuna/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
